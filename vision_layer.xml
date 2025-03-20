@@ -1,0 +1,5 @@
+<library path="nav2_vision_costmap_plugin_core">
+  <class type="nav2_vision_costmap_plugin::VisionLayer" base_class_type="nav2_costmap_2d::Layer">
+    <description>This is nav2 costmap plugin which considers colors in image as obsacles</description>
+  </class>
+</library>
